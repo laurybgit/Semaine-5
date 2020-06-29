@@ -1,0 +1,65 @@
+*
+{
+    margin: 0; 
+    padding: 0; 
+} 
+
+/* Navbar*/ 
+
+.nav-link
+{
+    color: white; 
+}
+.nav-link:hover{
+    color: #00AEB0; 
+}
+
+nav
+{
+    height: 5em; 
+    font-size: 1.4em;
+    color: white; 
+}
+
+/* Jumbotron */ 
+.jumbotron
+{
+    color: white; 
+    height: 30em; 
+    background-image: url(https://images.unsplash.com/photo-1507295386538-ddd5e86cd597?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center; 
+    padding: 0; 
+    margin: 0;
+}
+
+p.lead
+{
+    color: #fac000; 
+    font-size: 3em;
+}
+
+.center
+{
+    word-wrap: normal;
+    padding: 1.2em 10em;  
+}
+
+.lorem{
+    font-size: 1.5em;
+    font-weight: lighter;
+}
+
+/* Cards */ 
+
+.card 
+{
+margin-top: 25px; 
+}
+
+.btn .btn-primary
+{
+    background-color: aqua;
+}

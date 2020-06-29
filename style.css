@@ -1,0 +1,26 @@
+.nav-link
+{
+    color: white; 
+}
+
+.nav-link:hover
+{
+    color: black; 
+}
+
+.col-4{
+   background-color: blue; 
+   color: white; 
+   border: black 2px solid; 
+}
+
+.col-8{
+    background-color: green;
+    color: white; 
+   border: black 2px solid; 
+}
+
+.col-xl-8{
+    background-color: green;
+}
+
