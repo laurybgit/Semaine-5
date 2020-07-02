@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+    padding: 10px;
+}
+
+/* Maisons */ 
+.white {
+    background-color: white; 
+    text-align: center;
+}
+
+.maison {
+    width: 90px;
+    height: 90px;
+    matgin-left: 5px; 
+
+}
+
+.left
+{
+    text-align: left;
+    font-size: 1.5em; 
+}
+
+/* Cards */ 
+.col-3
+{
+    margin-top: 10px; 
+}
