@@ -11,7 +11,7 @@
 }
 
 .nav-link:hover{
-    color: #d835d896
+    color: #00FFFF;
 }
 
 /* Accueil, jumbotron */ 
@@ -26,4 +26,5 @@
     background-size: cover; 
     text-indent: 25em;
 }
+
 
